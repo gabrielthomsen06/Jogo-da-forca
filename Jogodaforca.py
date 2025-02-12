@@ -12,8 +12,7 @@ def game():
 
     print("\nBem-vindo(a) ao jogo da forca!")
     print("Adivinhe a palavra abaixo:\n")
-    print(" o gustavo é VUIADOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO")
-
+    
     palavras = ["banana", "abacaxi", "uva", "morango", "laranja"]  
     palavra = random.choice(palavras)  
 
